@@ -1,3 +1,5 @@
+PowerBi Dashboard Link: https://app.powerbi.com/links/Bo55SDibj_?ctid=b8d090cb-2c0f-4ca4-9a05-4ed78f0f7ef5&pbi_source=linkShare
+
 **QUESTIONS**
 Basic:
 Retrieve the total number of orders placed.
